@@ -1,0 +1,21 @@
+{
+    "name": "choices-stories-you-play-hack/choices-stories-you-play-hack-mod-apk-get-unlimited-gems",
+    "description": "Choices Stories You Play Hack Mod APK Get Unlimited Gems Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Choices Stories You Play",
+            "homepage": "http://choices-stories-you-play.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
